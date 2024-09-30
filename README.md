@@ -1,5 +1,9 @@
 # Unity_OverCooked (C# 프로그래밍 이건탁 단독)
 
+시연 영상 링크 : https://www.youtube.com/watch?v=NUkG66NQ4tA
+
+스크립트 코드 링크 : https://github.com/wow2658/Unity_OverCooked/tree/main/OverCooked_Beta/Assets/Scripts
+
 ![image](https://github.com/user-attachments/assets/b3f4e886-8769-4770-aec2-d7114edb31bb)
 
 ![overcookedbeta01](https://github.com/user-attachments/assets/8ae9bbea-4689-43cd-b4a2-f7bb6bd72346)
